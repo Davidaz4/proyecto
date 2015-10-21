@@ -2,7 +2,7 @@ Ir al directorio:
 
 git init
 
-git remote add origin https://github.com/TU NOMBRE/Curso2015-2016.git
+git remote add origin https://github.com/TU NOMBRE/proyecto.git
 
 git remote add upstream https://github.com/Isma1331/proyecto
 
